@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ben Raschke</h1>
 <h3 align="center">Application Support Engineering | Enterprise Service Management | Security and Vulnerability Leadership</h3>
 
