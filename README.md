@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idotechok" alt="idotechok" /></a> </p>
 
-- 🌱 I’m currently learning **Azure Cloud, AI (figuring out machine learning and natural language processing**
+- 🌱 I’m currently learning **Azure Cloud, AI (figuring out machine learning and natural language processing)**
 
 - 💬 Ask me about **Learning Git, AWS, Web Apps, ServiceNow, Service Management**
 
